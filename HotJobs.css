@@ -1,0 +1,55 @@
+header
+{
+	background-color: red;
+	color: yellow;
+	text-align: center;
+}
+
+nav
+{
+	background-color: orange;
+	color: purple;
+	text-align: left;
+
+}
+main
+{
+	background-color: yellow;
+
+}
+article
+{
+	background-color: green;
+	color: black;
+}
+span
+{
+	color: purple;
+	font-weight: bold;
+	font-style: italic;
+}
+aside
+{
+	background-color: blue;
+}
+h3
+{
+	color: yellow;
+}
+ol
+
+{
+	color: salmon;
+}
+img
+{
+	width: 200px;
+}
+button
+{
+	background-color: white;
+}
+footer
+{
+	background-color: purple;
+}
